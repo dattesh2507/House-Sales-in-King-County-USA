@@ -2,7 +2,7 @@
 
  House Sales Prediction in King County USA
  
-[ House Sales Prediction in King County USA](https://github.com/dattesh2507/Data-Analysis-with-Python-IBM/blob/main/Data%20Analytics%20for%20House%20Pricing%20Data%20Set.ipynb)
+[ House Sales Prediction in King County USA](https://github.com/dattesh2507/House-Sales-in-King-County-USA/blob/main/Data%20Analytics%20for%20House%20Pricing%20Data%20Set.ipynb)
 
 
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015.
